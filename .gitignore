@@ -1,0 +1,11 @@
+
+*.txt
+*.log
+*.ini
+InfiniteMatrixStarter/Saved/Logs/InfiniteMatrix.log
+InfiniteMatrixStarter/Saved/Config/Windows/Game.ini
+InfiniteMatrixStarter/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+InfiniteMatrixStarter/Intermediate/AssetRegistryCache/c90e3f55.bin
+InfiniteMatrixStarter/Intermediate/AssetRegistryCache/39a71ea5.bin
+InfiniteMatrixStarter/Intermediate/AssetRegistryCache/311563bb.bin
+*.bin
